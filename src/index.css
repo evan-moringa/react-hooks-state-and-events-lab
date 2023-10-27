@@ -111,3 +111,13 @@ header button {
   color: var(--font-color-light);
   font-size: 0.8em;
 }
+
+.dark-mode {
+  background-color: #000;
+  color: #fff;
+}
+
+.light-mode {
+  background-color: #fff;
+  color: #000;
+}
